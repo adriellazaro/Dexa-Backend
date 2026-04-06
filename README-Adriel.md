@@ -35,3 +35,7 @@ PUT /users/profile
 
 ## Install Dependencies
 npm install
+
+## Notes
+One user can only check-in once per day
+JWT token is required for protected endpoints
